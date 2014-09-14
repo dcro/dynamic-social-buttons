@@ -1,7 +1,7 @@
 Dynamic social buttons (with Google Analytics social tracking)
 ==============================================================
 
-You can use this code to initialize social buttons (Facebook, Google+, Twitter) and dynamically & track social actions in Google Analytics. This library works with both versions of Google Analytics (old analytics code & the new universal analytics code).
+You can use this code to initialize social buttons (Facebook, Google+, Twitter) dynamically & track social actions in Google Analytics. This library works with both versions of Google Analytics (old analytics code & the new universal analytics code).
 
 The code is written in [Coffeescript](http://coffeescript.org/), but you can easily transform it to JavaScript using the online compiler from the Coffeescript website.
 
